@@ -31,6 +31,11 @@ npm install
 npx expo start
 ```
 📸 Screenshots
-<!-- später Screenshots einfügen -->
+<p float="left">
+  <img src="assets/bild-normal.jpg" width="200" />
+  <img src="assets/bild-untergewicht.jpg" width="200" />
+  <img src="assets/bild-pläadipositas.jpg" width="200" />
+  <img src="assets/bild-adipositas-I.jpg" width="200" />
+</p>
 👨‍💻 Autor
 Mehmet Özdemir
