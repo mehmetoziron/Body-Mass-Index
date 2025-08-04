@@ -29,7 +29,7 @@ git clone https://github.com/dein-benutzername/BMI.git
 cd BMI
 npm install
 npx expo start
-
+```
 📸 Screenshots
 <!-- Hier kannst du später Screenshots einfügen -->
 👨‍💻 Autor
