@@ -25,12 +25,12 @@ Die App verwendet `AsyncStorage`, um Gewicht und Größe lokal auf dem Gerät zu
 ## ▶️ Projekt starten
 
 ```bash
-git clone https://github.com/dein-benutzername/BMI.git
+git clone https://github.com/mehmetoziron/Body-Mass-Index.git
 cd BMI
 npm install
 npx expo start
 ```
 📸 Screenshots
-<!-- Hier kannst du später Screenshots einfügen -->
+<!-- später Screenshots einfügen -->
 👨‍💻 Autor
 Mehmet Özdemir
